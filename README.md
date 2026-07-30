@@ -361,6 +361,6 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-**Built with ❤️ by [partheevg03](https://github.com/partheevg03)**
+**Built with by [partheevg03](https://github.com/partheevg03) , [PavanReddy666](https://github.com/PavanReddy666) and [sathwikchilapuram](https://github.com/sathwikchilapuram)**
 
 </div>
