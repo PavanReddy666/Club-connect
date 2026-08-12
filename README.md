@@ -22,6 +22,11 @@
 ClubConnect is a comprehensive platform designed for college campuses to streamline the management of student clubs. It provides a centralized system where **students** can discover and apply to clubs, **coordinators** can manage their clubs and events, and **admins** can oversee the entire ecosystem — all secured with JWT-based authentication and role-based authorization.
 
 ---
+### Live Demo & Website 
+
+- LinksFor a live application: 👉 Check out the [Live Demo](https://club-connect-jade.vercel.app/) to see it in action.
+- For deployment: 🚀 This project is successfully deployed and running [here](https://club-connect-jade.vercel.app/).
+
 
 ## ✨ Features
 
@@ -331,12 +336,6 @@ This project uses **H2 Database** in file-based mode for persistent storage.
 - **Username:** `sa`
 - **Password:** *(empty)*
 
-
-### Live Demo & Website 
-
-- LinksFor a live application: 👉 Check out the [Live Demo](https://club-connect-jade.vercel.app/) to see it in action.
-- For deployment: 🚀 This project is successfully deployed and running [here](https://club-connect-jade.vercel.app/).
-
 ### Entity Relationship
 
 ```
@@ -367,6 +366,6 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-**Built with by [partheevg03](https://github.com/partheevg03) , [PavanReddy666](https://github.com/PavanReddy666) and [sathwikchilapuram](https://github.com/sathwikchilapuram)**
+**Built by [partheevg03](https://github.com/partheevg03) , [PavanReddy666](https://github.com/PavanReddy666) and [sathwikchilapuram](https://github.com/sathwikchilapuram)**
 
 </div>
