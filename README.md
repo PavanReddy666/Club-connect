@@ -331,6 +331,12 @@ This project uses **H2 Database** in file-based mode for persistent storage.
 - **Username:** `sa`
 - **Password:** *(empty)*
 
+
+### Live Demo & Website 
+
+- LinksFor a live application: 👉 Check out the [Live Demo](https://club-connect-jade.vercel.app/) to see it in action.
+- For deployment: 🚀 This project is successfully deployed and running [here](https://club-connect-jade.vercel.app/).
+
 ### Entity Relationship
 
 ```
